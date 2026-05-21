@@ -173,8 +173,8 @@
     <properties>
         <java-version>1.8</java-version>
         <!-- Spring -->
-        <org.springframework.version>4.2.4.RELEASE</org.springframework.version>
-        <org.springframework.security.version>4.0.3.RELEASE</org.springframework.security.version>
+        <org.springframework.version>6.1.20</org.springframework.version>
+        <org.springframework.security.version>6.5.9</org.springframework.security.version>
 
         <org.aspectj-version>1.8.1</org.aspectj-version>
         <javax.servlet.jsp-api.version>2.3.2-b01</javax.servlet.jsp-api.version>
@@ -186,14 +186,14 @@
 
         <!-- marshalling -->
 
-        <jackson.version>2.6.4</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
 
         <!-- logging -->
         <org.slf4j.version>1.7.13</org.slf4j.version>
-        <logback.version>1.1.3</logback.version>
+        <logback.version>1.2.13</logback.version>
 
         <!-- various -->
-        <hibernate-validator.version>5.2.2.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.2.0.Final</hibernate-validator.version>
 
         <!-- util -->
         <guava.version>19.0</guava.version>
